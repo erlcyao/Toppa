@@ -17,3 +17,12 @@ git --version
 
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
+
+### Download VSCode & Python 3.9+
+
+[Download VSCode](https://code.visualstudio.com/)
+[Download Python 3.10](https://www.python.org/downloads/)
+
+### Start Debugging!
+
+> Note: You're not allowed to modify any code in `test.py`, just `models.py` please.
