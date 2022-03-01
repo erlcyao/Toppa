@@ -1,7 +1,7 @@
 # Implement the quadratic function below
 def quadratic(a, b, c, x):
     # YOUR CODE STARTS HERE
-    return
+    return a * (x ** 2) + b * x  + c
     # YOUR CODE ENDS HERE
 
 # test 1
